@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am an **IT Operations Engineer** with **3 years 
 
 ## Work Experience
 
-### IT Operations Engineer | [Company Name] | [Start Date] – [End Date]
+### IT Operations Engineer - Now
 
 - **Change Management**  
   - Responsible for defining and executing change management processes, ensuring effective control of system, application, and network changes, and optimizing change execution efficiency and system stability.
